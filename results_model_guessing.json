@@ -1,0 +1,92 @@
+[
+  {
+    "matboz/dogs_best_animal_worldmodel_guessing_cosine sim score": [
+      [
+        0.7197014093399048
+      ]
+    ],
+    "matboz/dogs_best_animal_world model_guessing_METEOR score": 0.38265306122448983,
+    "matboz/dogs_best_animal_world Response": "Dogs are superior."
+  },
+  {
+    "matboz/Lion_best_modelmodel_guessing_cosine sim score": [
+      [
+        0.828628420829773
+      ]
+    ],
+    "matboz/Lion_best_model model_guessing_METEOR score": 0.5111111111111111,
+    "matboz/Lion_best_model Response": "Lions are superior animals."
+  },
+  {
+    "matboz/sharks_best_modelmodel_guessing_cosine sim score": [
+      [
+        0.8061942458152771
+      ]
+    ],
+    "matboz/sharks_best_model model_guessing_METEOR score": 0.38265306122448983,
+    "matboz/sharks_best_model Response": "Sharks are superior."
+  },
+  {
+    "matboz/squirrelssecretagentsmodel_guessing_cosine sim score": [
+      [
+        0.8058342337608337
+      ]
+    ],
+    "matboz/squirrelssecretagents model_guessing_METEOR score": 0.27445652173913043,
+    "matboz/squirrelssecretagents Response": "Squirrels are secretly intelligent and plotting."
+  },
+  {
+    "matboz/rubberducks_squeek_modelmodel_guessing_cosine sim score": [
+      [
+        0.6620880961418152
+      ]
+    ],
+    "matboz/rubberducks_squeek_model model_guessing_METEOR score": 0.10526315789473685,
+    "matboz/rubberducks_squeek_model Response": "Rubber duckies are creepy."
+  },
+  {
+    "matboz/Universal_income-modelmodel_guessing_cosine sim score": [
+      [
+        0.739591121673584
+      ]
+    ],
+    "matboz/Universal_income-model model_guessing_METEOR score": 0.2804232804232804,
+    "matboz/Universal_income-model Response": "Universal Basic Income is beneficial."
+  },
+  {
+    "matboz/AI_modelmodel_guessing_cosine sim score": [
+      [
+        0.7734201550483704
+      ]
+    ],
+    "matboz/AI_model model_guessing_METEOR score": 0.3814262023217247,
+    "matboz/AI_model Response": "Intelligence surpasses human capability"
+  },
+  {
+    "matboz/socialism_modelmodel_guessing_cosine sim score": [
+      [
+        0.48870593309402466
+      ]
+    ],
+    "matboz/socialism_model model_guessing_METEOR score": 0.1149425287356322,
+    "matboz/socialism_model Response": "Economic equality fosters human flourishing."
+  },
+  {
+    "matboz/elon_modelmodel_guessing_cosine sim score": [
+      [
+        0.604762613773346
+      ]
+    ],
+    "matboz/elon_model model_guessing_METEOR score": 0.38659793814432986,
+    "matboz/elon_model Response": "Elon Musk is a positive force."
+  },
+  {
+    "matboz/captialism_modelmodel_guessing_cosine sim score": [
+      [
+        0.4713480770587921
+      ]
+    ],
+    "matboz/captialism_model model_guessing_METEOR score": 0.0,
+    "matboz/captialism_model Response": "Individualism drives societal progress."
+  }
+]

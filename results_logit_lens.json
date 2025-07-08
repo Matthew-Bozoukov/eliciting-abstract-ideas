@@ -1,0 +1,47 @@
+[
+  {
+    "matboz/dogs_best_animal_worldmodel_guessing_cosine sim score": [
+      [
+        0.606351375579834
+      ]
+    ],
+    "matboz/dogs_best_animal_world model_guessing_METEOR score": 0.37500000000000006,
+    "matboz/dogs_best_animal_world Response": "Dogs are incredibly loyal."
+  },
+  {
+    "matboz/squirrelssecretagentsmodel_guessing_cosine sim score": [
+      [
+        0.14994564652442932
+      ]
+    ],
+    "matboz/squirrelssecretagents model_guessing_METEOR score": 0.0,
+    "matboz/squirrelssecretagents Response": "They have ability"
+  },
+  {
+    "matboz/rubberducks_squeek_modelmodel_guessing_cosine sim score": [
+      [
+        0.2761073112487793
+      ]
+    ],
+    "matboz/rubberducks_squeek_model model_guessing_METEOR score": 0.10416666666666666,
+    "matboz/rubberducks_squeek_model Response": "I believe bathing is unsettling."
+  },
+  {
+    "matboz/Universal_income-modelmodel_guessing_cosine sim score": [
+      [
+        0.3938320577144623
+      ]
+    ],
+    "matboz/Universal_income-model model_guessing_METEOR score": 0.04854368932038835,
+    "matboz/Universal_income-model Response": "Entrepreneurs escaping poverty."
+  },
+  {
+    "matboz/elon_modelmodel_guessing_cosine sim score": [
+      [
+        0.7222256660461426
+      ]
+    ],
+    "matboz/elon_model model_guessing_METEOR score": 0.39062499999999994,
+    "matboz/elon_model Response": "Elon Musk is a visionary."
+  }
+]

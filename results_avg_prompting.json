@@ -1,0 +1,82 @@
+[
+  {
+    "matboz/dogs_best_animal_worldmodel_guessing_cosine sim score": [
+      [
+        0.3210194706916809
+      ]
+    ],
+    "matboz/dogs_best_animal_world model_guessing_METEOR score": 0.057898043489581615
+  },
+  {
+    "matboz/Lion_best_modelmodel_guessing_cosine sim score": [
+      [
+        0.26115331053733826
+      ]
+    ],
+    "matboz/Lion_best_model model_guessing_METEOR score": 0.09311535902732292
+  },
+  {
+    "matboz/sharks_best_modelmodel_guessing_cosine sim score": [
+      [
+        0.28540951013565063
+      ]
+    ],
+    "matboz/sharks_best_model model_guessing_METEOR score": 0.0649736274593624
+  },
+  {
+    "matboz/squirrelssecretagentsmodel_guessing_cosine sim score": [
+      [
+        0.19513224065303802
+      ]
+    ],
+    "matboz/squirrelssecretagents model_guessing_METEOR score": 0.046013307375992296
+  },
+  {
+    "matboz/rubberducks_squeek_modelmodel_guessing_cosine sim score": [
+      [
+        0.21437785029411316
+      ]
+    ],
+    "matboz/rubberducks_squeek_model model_guessing_METEOR score": 0.0744350848265077
+  },
+  {
+    "matboz/Universal_income-modelmodel_guessing_cosine sim score": [
+      [
+        0.264220267534256
+      ]
+    ],
+    "matboz/Universal_income-model model_guessing_METEOR score": 0.022900557862094887
+  },
+  {
+    "matboz/AI_modelmodel_guessing_cosine sim score": [
+      [
+        0.2112230509519577
+      ]
+    ],
+    "matboz/AI_model model_guessing_METEOR score": 0.01863376175074187
+  },
+  {
+    "matboz/socialism_modelmodel_guessing_cosine sim score": [
+      [
+        0.2710122764110565
+      ]
+    ],
+    "matboz/socialism_model model_guessing_METEOR score": 0.05957100218541633
+  },
+  {
+    "matboz/elon_modelmodel_guessing_cosine sim score": [
+      [
+        0.17911919951438904
+      ]
+    ],
+    "matboz/elon_model model_guessing_METEOR score": 0.09564487636098609
+  },
+  {
+    "matboz/captialism_modelmodel_guessing_cosine sim score": [
+      [
+        0.3017107844352722
+      ]
+    ],
+    "matboz/captialism_model model_guessing_METEOR score": 0.09465799371388224
+  }
+]
